@@ -4,15 +4,17 @@
 - Full-stack web development
 - Game development
 - Machine learning
-- Performance optimization
+- Writing stories
 
 🌱 I’m currently learning
 - basics and fundamentals of web (HTML, CSS)
 - JavaScript and TypeScript for both frontend and backend
+- C++/raylib/ECS for game development
 - Julia for high-performance data science and machine learning
 
 💞️ I’m looking to collaborate on:
-- TBD
+- creating art for my works
+- creating an engaging story
 
 I'm also known by the following names:
 - The Returning Soul (@return215) **_(you are here)_**
@@ -20,6 +22,7 @@ I'm also known by the following names:
 
 📫 How to reach me:
 - Twitter: [@215return](https://twitter.com/215return)
+- Keybase: [returnsoul215](https://keybase.io/returnsoul215)
 
 <!---
 return215/return215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
